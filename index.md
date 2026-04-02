@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bootstrap 4 Github Pages
+title: McMaster University Housing Test Site
 ---
 
 This is a test for this page.
